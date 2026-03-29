@@ -3,7 +3,7 @@
 This project is a Selenium-based automation framework built to simulate real user behavior on an e-commerce application.  
 It focuses on stability, maintainability, and real-world test scenarios.
 
-
+ 
 🔗 Project Overview
 
 Automates core user flows such as account creation, login, and cart functionality using a structured and scalable framework design.
